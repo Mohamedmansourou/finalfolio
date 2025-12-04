@@ -28,11 +28,11 @@ const projects = [
     demo: ""
   },
   {
-    title: "NLP — Extraction d’informations",
-    desc: "Pipeline NLP pour extraire des entités (NER) et résumer des textes, déployé en notebook.",
+    title: "gestion_d_etablissemnt avec vba ",
+    desc: "devellopemnt d'une application de gestion de note avec VBA",
     tags: ["NLP", "Python", "spaCy"],
     image: "analyse.jpg",
-    repo: "https://github.com/TON-USERNAME/nlp-extraction",
+    repo: "https://drive.google.com/file/d/1AklwEHow-8K4F9mxQWL_AF4UU3nRq8pJ/view?usp=drive_link",
     demo: ""
   },
   {
