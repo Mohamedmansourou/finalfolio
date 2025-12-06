@@ -20,11 +20,11 @@ const projects = [
     demo: "https://mmansourou.rf.gd/"
   },
   {
-    title: "Analyse de données Python & Tableau",
+    title: "sit de vente des vhecule",
     desc: "Nettoyage, exploration et visualisation de données (Tableau) pour la prise de décision.",
     tags: ["Python", "Pandas", "Tableau"],
     image: "python.png",
-    repo: "https://github.com/TON-USERNAME/py-data-analysis",
+    repo: "http://localhost/projet%20html,css,php/#contact",
     demo: ""
   },
   {
